@@ -14,7 +14,7 @@ Dashboard นี้นำเสนอ:
 
 ## 📁 Files Included
 - `pbix/Tourism_Analysis_file`: Power BI dashboard file
-- `Candidate Exercise Data.csv`: ข้อมูลที่ใช้สร้าง dashboard
+- `Data.xlsx`: ข้อมูลที่ใช้สร้าง dashboard
 - `Images/`: รูปประกอบ
 - `Reports/`: ไฟล์ presentation สำหรับนำเสนอ
 
